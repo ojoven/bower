@@ -1,0 +1,24 @@
+{
+  "name": "bower",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ojoven/bower",
+  "authors": [
+    "Mikel Torres <mikeltorresmail@gmail.com>"
+  ],
+  "description": "playing around with bower",
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "masonry": "desandro/masonry#~3.2.2"
+  }
+}
